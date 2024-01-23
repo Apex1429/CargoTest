@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/alexanderfernandez/Documents/Unreal Projects/CargoTest/Tests/Content/LocationStruct.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/CargoTest/Tests/Content/LocationData.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/CargoTest/Tests/Content/SolMapWidget.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/CargoTest/Tests/Content/WidgetTest.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/CargoTest/Tests/Content/AlphaMapWidget.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/CargoTest/Tests/Content/ShipList.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/CargoTest/Tests/Content/LocationStruct.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/CargoTest/Tests/Content/LocationData.uasset",
