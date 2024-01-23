@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/NewMap.umap",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/BP_PlayerController.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/LocationStruct.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/LocationData.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/WidgetTest.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/BP_GameMode.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/BP_Interface.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/Dock2.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/Dock1.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/MapWidget.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/ShipList.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/BP_CurrentShip.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/BP_StarterShip.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/sblan8c20wkz.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/Tests/Content/EnumTest.uasset"
+			]
+		}
+	]
+}
